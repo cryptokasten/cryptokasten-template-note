@@ -1,6 +1,7 @@
-#+TITLE: Cryptokasten template: note
-#+TAGS: cryptokasten
+#+TITLE: {{ doc.title }}
+#+TAGS: {{ doc.tags | join(", ") }}
 #+OPTIONS: ^:nil
 
 [[https://github.com/cryptokasten][file:https://img.shields.io/badge/dynamic/json.svg?url=https://api.github.com/users/cryptokasten&label=Cryptokasten&query=$.public_repos]]
+[[https://github.com/cryptokasten-note][file:https://img.shields.io/badge/note-green.svg]]
 

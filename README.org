@@ -13,4 +13,4 @@ Manual.
 
 ** Data
 
-See =template= directory.
+See the =template= directory.
